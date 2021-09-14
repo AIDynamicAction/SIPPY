@@ -4,7 +4,7 @@ with open('README.md', 'r') as f:
 	readme = f.read()
 
 setuptools.setup(
-	name="sippy",
+	name="sippy-rcognita",
 	version="0.2.0",
 	author="Giuseppe Armenise",
 	description="Systems Identification Package for Python",
