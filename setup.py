@@ -10,7 +10,7 @@ setuptools.setup(
 	description="Systems Identification Package for Python",
 	long_description=readme,
 	long_description_content_type='text/markdown',
-	url="https://github.com/CPCLAB-UNIPI/sippy",
+	url="https://github.com/AIDynamicAction/SIPPY",
 	packages=setuptools.find_packages(),
 	python_requires=">=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=3.6",
 	install_requires=(
